@@ -1,0 +1,14 @@
+html, body {
+    min-height: 100%;
+}
+body {
+    background-image: linear-gradient(to left bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #7caaf2, #52bafb, #00c8fc, #00dde9, #00ebb0, #8eef63, #f9e500);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    background: rgba(255, 255, 255, .5);
+    border-radius: 5px;
+    padding: 10px;
+}
